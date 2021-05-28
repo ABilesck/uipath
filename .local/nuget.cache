@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "04zkycYd7c2wmnJSiJuMwTPkCNMO0i0C9strlDfsIVLtM10LHh2TvNfOwxUOgflPEAoXyrGd1EhrsHzp59V5Jw==",
+  "dgSpecHash": "pFDMuYnP7P1NpUqMvd76YNQxLOxSAN3tjPliUlE/rNLktrOp1SfcMhcQ+ppox5OjziN8M89dUtqkRSTmAK/EVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Alex\\Documents\\UiPath\\acmeTest\\.local\\",
+  "projectFilePath": "C:\\Users\\Alex\\Downloads\\uipath-main\\uipath-main\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\Alex\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\Alex\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
